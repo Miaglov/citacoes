@@ -1,4 +1,8 @@
 "Não há certezas, apenas oportunidades." (V de Vingança)
 "Diga ’olá’ para meu pequeno amigo!" (Scarface)
 "Hasta la vista, baby." (Exterminador do Futuro 2)
+<<<<<<< HEAD
 linha de texto adicionada exclusivamente pro status
+=======
+alteração
+>>>>>>> b7d364fa5bd865309a4e1cc7c8baeb4190118f84
